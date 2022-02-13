@@ -1,0 +1,90 @@
+.nav-link{
+    font-size:larger;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand{
+    font-size: 37px;;
+}
+
+#main-head
+{
+    height: calc(100vh - 54px);
+    background-color:darkviolet;
+    /* background-image: url('https://analyticsindiamag.com/wp-content/uploads/2020/04/IIT-Kanpur-To-Offer-Free-Courses-During-The-Lockdown-Period.jpg'); */
+    background-size: cover;
+}
+
+u_logo{
+    height: 5px;
+    width: 5px;
+}
+
+.para{
+    /* font-size: medium; */
+    font-family: "Varela Round", sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #666F7B;
+}
+
+.page-section{
+    padding: 6rem 0;
+}
+
+.topic{
+    font-weight: 350;
+    margin-bottom: 0.5rem;
+    line-height: 5rem;
+}
+
+.section-heading{
+    font-weight: bold;
+    margin-bottom: 3rem;
+}
+
+.section-subheading
+{
+    margin-bottom: 4rem;
+}
+
+.abt{
+    background-color: lavender;
+}
+
+.row-bar {
+    width: calc(100% - 64px);
+    box-sizing: border-box;
+    min-height: 60px;
+    margin: 32px;
+    padding: 0;
+  }
+  
+  .emboss {
+    box-shadow: spread-shadow;
+  }
+
+  #conduction .row-bar img {
+    width: 180px;
+  }
+  
+  #conduction .row-bar {
+    background: color-white;
+    border-radius: 6px;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  #conduction .row-bar .description {
+    padding: 16px;
+    width: 120px;
+    flex-grow: 1;
+  }
+/*   
+  #conduction .row-bar {
+    h2, h3, h4 {
+      text-transform: uppercase;
+    }
+  } */
